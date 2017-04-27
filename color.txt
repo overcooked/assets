@@ -1,0 +1,5 @@
+#5cb85c - Green (light)
+#0db14b - Green (dark)
+#cccccc - Grey (lightest)
+#bbbbbb - Grey (medium)
+#aaaaaa - Grey (darkest)
